@@ -1,2 +1,2 @@
-# Login-Page
-A simple login page developed with ReactJS.
+# Fokus 
+Projeto de estudo com javascript.
